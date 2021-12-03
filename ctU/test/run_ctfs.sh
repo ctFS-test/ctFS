@@ -1,0 +1,1 @@
+LD_PRELOAD=/home/user/ctfs/bld/libctfs.so $@
